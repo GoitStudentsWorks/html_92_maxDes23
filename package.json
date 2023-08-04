@@ -5,7 +5,7 @@
   "type": "module",
   "scripts": {
     "dev": "vite",
-    "build": "vite build --base=/project-group-1-g2g/",
+    "build": "vite build --base=/html_92_maxDes23/",
     "preview": "vite preview"
   },
   "devDependencies": {
